@@ -1,4 +1,13 @@
 {
   "thRate": 740,
-  "mmRate": 715
+  "mmRate": 715,
+  "adjustments": {
+    "under100k": 25,
+    "above100k": 0,
+    "above1m": -1,
+    "above10m": -3,
+    "wavepay": 15,
+    "banking": 20,
+    "homepay": 20
+  }
 }
